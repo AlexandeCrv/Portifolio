@@ -212,10 +212,11 @@ function Inicio() {
                   <div className="neo">
                     <h4>NeoDesignerSuper</h4>
                     <p>
-                      Uma LandingPage sobre a causa vegana! <br />{" "}
+                      Um TodoList diferenciado, com ideas de jogos rpg, serviu
+                      como base para fazer o PartyRoom em react <br />{" "}
                       <a
                         className="ancoraprojeto"
-                        href="https://alexandecrv.github.io/Superbompage/SUPERB.HTML"
+                        href="https://alexandecrv.github.io/PartyRoom/"
                         target="_blank"
                       >
                         Confira aqui!
