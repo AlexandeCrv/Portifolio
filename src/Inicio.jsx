@@ -56,7 +56,10 @@ function Inicio() {
               <div className="redes">
                 <div className="linkedin">
                   <div>
-                    <a href="https://www.linkedin.com/in/alexandre-carvalho-4b178a26b/">
+                    <a
+                      href="https://www.linkedin.com/in/alexandre-carvalho-4b178a26b/"
+                      target="_blank"
+                    >
                       <img className="linked" src={linkedin} alt="" />
                     </a>
                   </div>
@@ -65,7 +68,7 @@ function Inicio() {
                   <div className="linkedinn">
                     <div>
                       <a
-                        href="https://www.instagram.com/stories/xande.mirandac/"
+                        href="https://www.instagram.com/xande.mirandac/"
                         target="_blank"
                       >
                         {" "}
@@ -75,7 +78,10 @@ function Inicio() {
                   </div>
                 </div>
                 <div className="github">
-                  <a href="https://github.com/AlexandeCrv?tab=repositories">
+                  <a
+                    href="https://github.com/AlexandeCrv?tab=repositories"
+                    target="_blank"
+                  >
                     <img className="linked" src={github} alt="" />
                   </a>
                 </div>
