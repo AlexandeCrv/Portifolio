@@ -210,7 +210,7 @@ function Inicio() {
                 <div className="icon">5</div>{" "}
                 <div className="des">
                   <div className="neo">
-                    <h4>NeoDesignerSuper</h4>
+                    <h4>TodoListrpg</h4>
                     <p>
                       Um TodoList diferenciado, com ideas de jogos rpg, serviu
                       como base para fazer o PartyRoom em react <br />{" "}
@@ -313,7 +313,7 @@ function Inicio() {
                 <div className="linkedinn">
                   <div>
                     <a
-                      href="https://www.instagram.com/stories/xande.mirandac/"
+                      href="https://www.instagram.com/xande.mirandac/"
                       target="_blank"
                     >
                       {" "}
