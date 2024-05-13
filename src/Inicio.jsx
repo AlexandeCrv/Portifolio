@@ -6,6 +6,7 @@ import reacts from "./assets/reacts.png";
 import hcj from "./assets/hcj.png";
 import reac from "./assets/reac.png";
 import insta from "./assets/insta.png";
+import git from "./assets/git.png";
 function Inicio() {
   return (
     <div>
@@ -122,7 +123,11 @@ function Inicio() {
                     Um site no qual o lider de uma pt de rpg pode organizar as
                     funções de cada integrante e conferir seus status (Feito em
                     react) <br />
-                    <a className="ancoraprojeto" href="" target="_blank">
+                    <a
+                      className="ancoraprojeto"
+                      href="https://alexandecrv.github.io/ReactTodoList/"
+                      target="_blank"
+                    >
                       Confira aqui!
                     </a>
                   </p>
@@ -232,6 +237,7 @@ function Inicio() {
               </div>
 
               <div className="tmlcssjs">
+                <br />
                 <h2 className="htmlcssjs">React JS</h2>
                 <p>
                   {" "}
@@ -246,12 +252,29 @@ function Inicio() {
                   conceitos fundamentais.
                 </p>
               </div>
+              <div>
+                <div className="tmlcssjs">
+                  <br />
+                  <h2 className="htmlcssjs">Git/GitHub</h2>
+                  <p>
+                    Git é um sistema de controle de versões distribuído, usado
+                    principalmente no desenvolvimento de software.
+                    <br />
+                    GitHub é uma plataforma de hospedagem de código-fonte e
+                    arquivos com controle de versão usando o Git. <br />
+                    Quase todos os meus projetos eu exportei para o githubpages
+                    com o git, logo tenho dominio básico das ferramentas.
+                  </p>
+                </div>
+              </div>
             </div>
 
             <div className="imggg">
               <img className="imgg" src={hcj} alt="" />
               <br />
               <img className="imgg" src={reac} alt="" />
+              <br />
+              <img className="imgg" src={git} alt="" />
             </div>
           </div>
           <div></div>
