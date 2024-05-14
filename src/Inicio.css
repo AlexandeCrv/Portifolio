@@ -788,7 +788,7 @@ strong {
   box-shadow: -25px -25px 25px black inset, 10px 10px 30px white inset,
     0px 0px 20px #3a96ff;
   background-size: cover;
-  animation: rotate 20s ease-in-out infinite;
+  animation: rotate 20s alternate ease-in-out infinite;
   transform: rotate(360deg);
   transition-duration: 10s;
   cursor: pointer;
