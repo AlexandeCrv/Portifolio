@@ -234,7 +234,7 @@ function Inicio() {
             <div className="descrição">
               <div className="tmlcssjs">
                 <h2 className="htmlcssjs">HTML, CSS, JavaScript</h2>
-                <p>
+                <p className="paragrafohabilidades">
                   <strong> /* </strong> HTML, CSS e Javascript, também
                   conhecidas como santíssima trindade da web, formam o principal
                   conjunto de tecnologias para qualquer aplicação web. <br />{" "}
@@ -246,7 +246,7 @@ function Inicio() {
               <div className="tmlcssjs">
                 <br />
                 <h2 className="htmlcssjs">React JS</h2>
-                <p>
+                <p className="paragrafohabilidades">
                   {" "}
                   <strong> /* </strong> O React é uma biblioteca JavaScript
                   declarativa, eficiente e flexível para criar interfaces. Ele
@@ -263,7 +263,7 @@ function Inicio() {
                 <div className="tmlcssjs">
                   <br />
                   <h2 className="htmlcssjs">Git/GitHub</h2>
-                  <p>
+                  <p className="paragrafohabilidades">
                     Git é um sistema de controle de versões distribuído, usado
                     principalmente no desenvolvimento de software.
                     <br />
@@ -290,7 +290,7 @@ function Inicio() {
           <div className="contatos">
             <h1 className="h1f">Contatos</h1>
             <div className="h2h3">
-              <h2 className="htmlcssjs ">Email pra contato</h2>
+              <h2 className="htmlcssjss ">Email pra contato</h2>
               <h3>alexandecarvalho318@gmail.com</h3>
             </div>
             <h2 className="htmlcssjsj ">Me ache nas redes!</h2>
