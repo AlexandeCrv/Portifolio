@@ -124,14 +124,14 @@ function Inicio() {
               <div className="row">
                 <div className="icon">1</div>
                 <div className="des">
-                  <h4>PartyRoom</h4>
-                  <p>
-                    Um site no qual o lider de uma pt de rpg pode organizar as
-                    funções de cada integrante e conferir seus status (Feito em
-                    react) <br />
+                  <h4 className="h4tdh">TheDogHouse</h4>
+                  <p className="ptdg">
+                    Aqui consumi uma API em React na qual possui varias raças de
+                    cachorros, tem algumas curiosidades e foi feito todo em
+                    inglês! <br />
                     <a
                       className="ancoraprojeto"
-                      href="https://alexandecrv.github.io/ReactTodoList/"
+                      href="https://alexandecrv.github.io/TheDogHouse/"
                       target="_blank"
                     >
                       Confira aqui!
@@ -145,13 +145,14 @@ function Inicio() {
               <div className="row">
                 <div className="icon">2</div>
                 <div className="des">
-                  <h4>Super Nnintendo Wolrd</h4>
+                  <h4>PartyRoom</h4>
                   <p>
-                    Um site para se mergulhar na nostalgia, vários jogos
-                    iconicos e antigos do nintendo! <br />
+                    Um site no qual o lider de uma pt de rpg pode organizar as
+                    funções de cada integrante e conferir seus status (Feito em
+                    react) <br />
                     <a
                       className="ancoraprojeto"
-                      href="https://alexandecrv.github.io/NintendoWorld/skidrow.html"
+                      href="https://alexandecrv.github.io/ReactTodoList/"
                       target="_blank"
                     >
                       Confira aqui!
@@ -188,13 +189,13 @@ function Inicio() {
                 <div className="icon">4</div>
                 <div className="des">
                   <div className="juju">
-                    <h4>ResumAnime </h4>
+                    <h4>Super Nnintendo Wolrd </h4>
                     <p>
-                      Um site para amantes de animes, la se tem o resumo dos
-                      primeiros 12 episodios de Jujutsu kaisen! <br />
+                      Um site para se mergulhar na nostalgia, vários jogos
+                      iconicos e antigos do nintendo! <br />
                       <a
                         className="ancoraprojeto"
-                        href="https://alexandecrv.github.io/jujutsu/index.html.html"
+                        href="https://alexandecrv.github.io/NintendoWorld/skidrow.html"
                         target="_blank"
                       >
                         Confira aqui!
