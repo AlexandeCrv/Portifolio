@@ -7,6 +7,8 @@ import hcj from "./assets/hcj.png";
 import reac from "./assets/reac.png";
 import insta from "./assets/insta.png";
 import git from "./assets/git.png";
+import ts from "./assets/ts.png";
+import api from "./assets/api.png";
 function Inicio() {
   return (
     <div>
@@ -124,19 +126,13 @@ function Inicio() {
               <div className="row">
                 <div className="icon">1</div>
                 <div className="des">
-                  <h4 className="h4tdh">TheDogHouse</h4>
-                  <p className="ptdg">
-                    Aqui consumi uma API em React na qual possui varias raças de
-                    cachorros, tem algumas curiosidades e foi feito todo em
-                    inglês! <br />
-                    <a
-                      className="ancoraprojeto"
-                      href="https://alexandecrv.github.io/TheDogHouse/"
-                      target="_blank"
-                    >
-                      Confira aqui!
-                    </a>
-                  </p>
+                  <a
+                    className="ancoraprojeto1"
+                    href="https://alexandecrv.github.io/ViagensAereas/"
+                    target="_blank"
+                  >
+                    Confira aqui!
+                  </a>
                 </div>
               </div>
             </label>
@@ -145,19 +141,13 @@ function Inicio() {
               <div className="row">
                 <div className="icon">2</div>
                 <div className="des">
-                  <h4>PartyRoom</h4>
-                  <p>
-                    Um site no qual o lider de uma pt de rpg pode organizar as
-                    funções de cada integrante e conferir seus status (Feito em
-                    react) <br />
-                    <a
-                      className="ancoraprojeto"
-                      href="https://alexandecrv.github.io/ReactTodoList/"
-                      target="_blank"
-                    >
-                      Confira aqui!
-                    </a>
-                  </p>
+                  <a
+                    className="ancoraprojeto2"
+                    href="https://alexandecrv.github.io/TheDogHouse/"
+                    target="_blank"
+                  >
+                    Confira aqui!
+                  </a>
                 </div>
               </div>
             </label>
@@ -167,18 +157,14 @@ function Inicio() {
                 <div className="icon">3</div>
                 <div className="des">
                   <div className="viagens">
-                    <h4> Viagens</h4>
-                    <p>
-                      Um site de viagens, lá tambem se encotra aluguel de carro
-                      e hotel! <br />{" "}
-                      <a
-                        className="ancoraprojeto"
-                        href="https://alexandecrv.github.io/Viagens/pmidia.html"
-                        target="_blank"
-                      >
-                        Confira aqui!
-                      </a>
-                    </p>
+                    <p>Um app para amantes de rpgs!</p>
+                    <a
+                      className="ancoraprojeto3"
+                      href="https://alexandecrv.github.io/ReactTodoList/"
+                      target="_blank"
+                    >
+                      Confira aqui!
+                    </a>
                   </div>
                 </div>
               </div>
@@ -194,7 +180,7 @@ function Inicio() {
                       Um site para se mergulhar na nostalgia, vários jogos
                       iconicos e antigos do nintendo! <br />
                       <a
-                        className="ancoraprojeto"
+                        className="ancoraprojeto4"
                         href="https://alexandecrv.github.io/NintendoWorld/skidrow.html"
                         target="_blank"
                       >
@@ -211,13 +197,13 @@ function Inicio() {
                 <div className="icon">5</div>{" "}
                 <div className="des">
                   <div className="neo">
-                    <h4>TodoListrpg</h4>
+                    <h4>LadingPage</h4>
                     <p>
-                      Um TodoList diferenciado, com ideas de jogos rpg, serviu
-                      como base para fazer o PartyRoom em react <br />{" "}
+                      Uma landingPage de viagens!
+                      <br />{" "}
                       <a
-                        className="ancoraprojeto"
-                        href="https://alexandecrv.github.io/PartyRoom/"
+                        className="ancoraprojeto5"
+                        href="https://alexandecrv.github.io/Viagens/pmidia.html"
                         target="_blank"
                       >
                         Confira aqui!
@@ -236,11 +222,11 @@ function Inicio() {
               <div className="tmlcssjs">
                 <h2 className="htmlcssjs">HTML, CSS, JavaScript</h2>
                 <p className="paragrafohabilidades">
-                  <strong> /* </strong> HTML, CSS e Javascript, também
-                  conhecidas como santíssima trindade da web, formam o principal
-                  conjunto de tecnologias para qualquer aplicação web. <br />{" "}
-                  Comecei a estudar esses carinhas não tem muito tempo, mas já
-                  absorvi o básico dos três !
+                  <strong> /* </strong> HTML, CSS e Javascript também conhecidas
+                  como santíssima trindade da web, formam o principal conjunto
+                  de tecnologias para qualquer aplicação web. <br /> Comecei a
+                  estudar esses carinhas não tem muito tempo, mas já absorvi o
+                  básico dos três !
                 </p>
               </div>
 
@@ -248,16 +234,12 @@ function Inicio() {
                 <br />
                 <h2 className="htmlcssjs">React JS</h2>
                 <p className="paragrafohabilidades">
-                  {" "}
                   <strong> /* </strong> O React é uma biblioteca JavaScript
                   declarativa, eficiente e flexível para criar interfaces. Ele
                   permite compor UIs complexas a partir de pequenos e isolados
                   códigos chamados “componentes”.
                   <br />
-                  Esse realmente tem sido um desafio aprender, ainda estou
-                  aprendendo suas funcionalidades básicas, esse portifolio foi
-                  feito completo em react, quis me desafiar pra aprender os
-                  conceitos fundamentais.
+                  Hoje faço projetos responsivos e funcionais em React Js/Ts.
                 </p>
               </div>
               <div>
@@ -275,14 +257,41 @@ function Inicio() {
                   </p>
                 </div>
               </div>
+              <div className="tmlcssjs">
+                <br />
+                <h2 className="htmlcssjs">TypeScript</h2>
+                <p className="paragrafohabilidades">
+                  TypeScript é uma linguagem de programação desenvolvida pela
+                  Microsoft que se baseia em JavaScript adicionando tipagem
+                  estática opcional e outros recursos avançados.
+                  <br />
+                  Tenho feito projetos utilizando Ts para solidifcar ainda mais
+                  minha base na programação.
+                </p>
+              </div>
+              <div className="tmlcssjs">
+                <br />
+                <h2 className="htmlcssjs">Consumo de Api</h2>
+                <p className="paragrafohabilidades">
+                  Uma API é um conjunto de regras e definições que permite que
+                  diferentes softwares se comuniquem entre si.
+                  <br />
+                  Desde que aprendi um pouco sobre suas ferramentas, meus
+                  projetos tem ficado muito mais funcionais e dinâmicos.
+                </p>
+              </div>
             </div>
 
             <div className="imggg">
               <img className="imgg" src={hcj} alt="" />
-              <br />
+
               <img className="imgg" src={reac} alt="" />
-              <br />
+
               <img className="imgg" src={git} alt="" />
+
+              <img className="imgg" src={ts} alt="" />
+
+              <img className="imgg" src={api} alt="" />
             </div>
           </div>
           <div></div>

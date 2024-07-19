@@ -812,10 +812,48 @@ strong {
   background-color: #0b0b0b;
   font-family: "play", sans-serif;
 }
-.ancoraprojeto {
-  color: hotpink;
+.ancoraprojeto1 {
+  color: black;
+  font-size: 40px;
 }
-.ancoraprojeto:hover {
+.ancoraprojeto2 {
+  color: white;
+  margin-top: 100px;
+  font-size: 40px;
+}
+.ancoraprojeto3 {
+  color: white;
+  font-size: 40px;
+}
+.ancoraprojeto4 {
+  color: black;
+  font-size: 40px;
+}
+.ancoraprojeto5 {
+  color: white;
+  font-size: 40px;
+}
+.ancoraprojeto1:hover {
+  color: black;
+  transition: 0.4s all;
+  transform: scale(1.12);
+}
+.ancoraprojeto2:hover {
+  color: black;
+  transition: 0.4s all;
+  transform: scale(1.12);
+}
+.ancoraprojeto3:hover {
+  color: black;
+  transition: 0.4s all;
+  transform: scale(1.12);
+}
+.ancoraprojeto4:hover {
+  color: black;
+  transition: 0.4s all;
+  transform: scale(1.12);
+}
+.ancoraprojeto5:hover {
   color: black;
   transition: 0.4s all;
   transform: scale(1.12);
@@ -924,24 +962,24 @@ input:checked + label .des {
 }
 
 .card[for="c1"] {
-  background-image: url(./assets/tdh.png);
+  background-image: url(/src/assets/gi.png);
 }
 .card[for="c2"] {
-  background-image: url(./assets/a.png);
+  background-image: url(./assets/tdh.png);
 }
 .card[for="c3"] {
-  background-image: url(./assets/london.jpg);
+  background-image: url(./assets/a.png);
 }
 .card[for="c4"] {
   background-image: url(./assets/backgrond.png);
 }
 .card[for="c5"] {
-  background-image: url(./assets/a.png);
+  background-image: url(./assets/london.jpg);
 }
 
 .habilidades {
   width: 100%;
-  height: 900px;
+  height: 1500px;
   color: white;
   text-align: center;
   margin-top: 100px;
@@ -1038,9 +1076,6 @@ footer {
   background-color: #1f1f1f;
   border-radius: 10px;
   text-align: center;
-}
-
-.nomes {
 }
 
 .ultyma {
