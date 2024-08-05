@@ -822,7 +822,7 @@ strong {
   font-size: 40px;
 }
 .ancoraprojeto3 {
-  color: white;
+  color: black;
   font-size: 40px;
 }
 .ancoraprojeto4 {
@@ -905,12 +905,13 @@ strong {
 }
 .viagens {
   margin-top: 50px;
-}
-.juju {
   color: black;
 }
-.neo {
+.juju {
   color: white;
+}
+.neo {
+  color: black;
 }
 .card > .row > .des {
   display: flex;
@@ -968,13 +969,13 @@ input:checked + label .des {
   background-image: url(./assets/tdh.png);
 }
 .card[for="c3"] {
-  background-image: url(./assets/a.png);
+  background-image: url(./assets/guithubfinder.png);
 }
 .card[for="c4"] {
-  background-image: url(./assets/backgrond.png);
+  background-image: url(./assets/a.png);
 }
 .card[for="c5"] {
-  background-image: url(./assets/london.jpg);
+  background-image: url(./assets/backgrond.png);
 }
 
 .habilidades {

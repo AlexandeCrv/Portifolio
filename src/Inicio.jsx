@@ -160,7 +160,7 @@ function Inicio() {
                     <p>Um app para amantes de rpgs!</p>
                     <a
                       className="ancoraprojeto3"
-                      href="https://alexandecrv.github.io/ReactTodoList/"
+                      href="https://alexandecrv.github.io/GitHubFinderRpg/"
                       target="_blank"
                     >
                       Confira aqui!
@@ -175,13 +175,12 @@ function Inicio() {
                 <div className="icon">4</div>
                 <div className="des">
                   <div className="juju">
-                    <h4>Super Nnintendo Wolrd </h4>
+                    <h4>ReactToDoListRPG </h4>
                     <p>
-                      Um site para se mergulhar na nostalgia, vários jogos
-                      iconicos e antigos do nintendo! <br />
+                      Aqui você vai se aventurar num mundo de rpg <br />
                       <a
-                        className="ancoraprojeto4"
-                        href="https://alexandecrv.github.io/NintendoWorld/skidrow.html"
+                        className="ancoraprojeto3"
+                        href="https://alexandecrv.github.io/ReactTodoList/"
                         target="_blank"
                       >
                         Confira aqui!
@@ -197,13 +196,13 @@ function Inicio() {
                 <div className="icon">5</div>{" "}
                 <div className="des">
                   <div className="neo">
-                    <h4>LadingPage</h4>
+                    <h4>Super Nnintendo Wolrd </h4>
                     <p>
-                      Uma landingPage de viagens!
-                      <br />{" "}
+                      Um site para se mergulhar na nostalgia, vários jogos
+                      iconicos e antigos do nintendo! <br />
                       <a
-                        className="ancoraprojeto5"
-                        href="https://alexandecrv.github.io/Viagens/pmidia.html"
+                        className="ancoraprojeto4"
+                        href="https://alexandecrv.github.io/NintendoWorld/skidrow.html"
                         target="_blank"
                       >
                         Confira aqui!
